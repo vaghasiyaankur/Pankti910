@@ -21,17 +21,17 @@
 <table>
 <tr>
 <td>
-<image style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Pankti910&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+<image style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Pankti910&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 </td>
 
 <td>
-<image src="https://github-readme-streak-stats.herokuapp.com/?user=Pankti910&theme=dark&hide_border=false"/>
+<image src="https://github-readme-streak-stats.herokuapp.com/?user=Pankti910&theme=merko&hide_border=false&show_icons=true"/>
 
 </td>
 </tr>
 </table>
 <div align="center">
-<image  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankti910&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<image  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankti910&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/>
 
 </div>
 
