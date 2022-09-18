@@ -22,20 +22,20 @@
 <table>
 <tr>
 <td>
-<image style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Pankti910&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+<image style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Pankti910&theme=react&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 </td>
 
 <td>
-<image src="https://github-readme-streak-stats.herokuapp.com/?user=Pankti910&theme=merko&hide_border=false&show_icons=true"/>
+<image src="https://github-readme-streak-stats.herokuapp.com/?user=Pankti910&theme=react&hide_border=false&show_icons=true"/>
 
 </td>
 </tr>
 </table>
 <div align="center">
-<image  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankti910&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/>
+<image  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankti910&theme=react&hide_border=false&include_all_commits=true&count_private=true"/>
 
 </div>
-<image src="https://activity-graph.herokuapp.com/graph?username=Pankti910&theme=merko&bg_color=fffff&hide_border=false&title_color=dfdfdf"/>
+<image src="https://activity-graph.herokuapp.com/graph?username=Pankti910&theme=react-dark&bg_color=20232a&hide_border=true"/>
 
 
 ## 🏆 GitHub Trophies
