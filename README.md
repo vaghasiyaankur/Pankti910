@@ -39,5 +39,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pankti910&theme=gruvbox&no-frame=false&no-bg=false&margin-w=120)
 
----
-[![](https://visitcount.itsvg.in/api?id=Pankti910&icon=6&color=8)](https://visitcount.itsvg.in)
