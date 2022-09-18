@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pankti Shah:
-<image align="right"  src="https://user-images.githubusercontent.com/47489894/190872881-8d506700-89b5-42c5-acec-c33768420ac2.jpg"/>
+<image align="right" width="150" height="150" src="https://user-images.githubusercontent.com/47489894/190889614-1fc3a4da-58f6-4e5f-88ef-96e584af8dff.png"/>
 :rocket:I'm currently working at DhiWise
 <br>
 :handshake:I'm looking for collaborating on open-source
